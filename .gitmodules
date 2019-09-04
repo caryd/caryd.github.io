@@ -1,0 +1,3 @@
+[submodule "golden-colors"]
+	path = golden-colors
+	url = https://github.com/caryd/golden-colors.git
